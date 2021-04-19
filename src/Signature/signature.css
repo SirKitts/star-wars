@@ -1,0 +1,13 @@
+.signature {
+    position: absolute;
+    top: 3.2rem;
+    left: -2.2rem;
+    /* margin: 2rem auto; */
+    transform: rotate(270deg);
+    background-color: transparent;
+}
+
+.signature a {
+    text-decoration: none;
+    outline: none;
+}
